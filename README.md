@@ -1,5 +1,3 @@
 # FirstGitHubRepository
 
-ppp
-kkkk
-ddd
+abc
